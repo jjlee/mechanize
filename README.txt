@@ -1,7 +1,5 @@
-See INSTALL.txt for installation instructions.
+This project has moved to https://github.com/python-mechanize
 
-See docs/html/index.html and docstrings for documentation.
+It's now being maintained by other people, principally Kovid Goyal
 
-If you have a git working tree rather than a release, you'll only have
-the markdown source, e.g. mechanize/index.txt; release.py is used to
-build the HTML docs.
+-- John Lee, March 2017
